@@ -3,6 +3,7 @@
  *
  * Date: 12 March 2021
  * Updating the HL Compare tool for extended deposit category (https://www.ing.com.au/home-loans.html)
+ * Packaged on 30 Aug 2021
  *
  */
 
@@ -18,7 +19,8 @@ Update log:
 
 
 TODO:
-[ ] Make sure we have to latest home-loans.html contents in the home-loans-lvr-test.html
+[x] Make sure we have to latest home-loans.html contents in the home-loans-lvr-test.html
+[ ] make interestRateManger to have our code in and compatible to the normal page
 
 
 V2.0 Package:
